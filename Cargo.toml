@@ -1,0 +1,10 @@
+[package]
+name = "height-map-terain"
+version = "0.1.0"
+authors = ["Jan Sipr <sipr.jan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.1.2"
+noise = "0.6.0"
+bevy_fly_camera = "0.3.0"
